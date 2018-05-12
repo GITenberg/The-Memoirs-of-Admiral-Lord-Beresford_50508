@@ -1,4 +1,8 @@
 _repo: The-Memoirs-of-Admiral-Lord-Beresford_50508
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50508-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Beresford, Charles William De la Poer Beresford, Baron
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45946
     wikipedia: https://en.wikipedia.org/wiki/Lord_Charles_Beresford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50508#The-Memoirs-of-Admiral-Lord-Beresford
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
